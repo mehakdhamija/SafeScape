@@ -1,0 +1,35 @@
+[
+    {
+      "message": "Main gate of IGDTUW has too much garbage",
+      "status": "Resolved",
+      "area": "IGDTUW", 
+      "state":"Delhi",
+      "color":"bg-green-400",
+      "id": 1
+    },
+    {
+      "message": "Girls washroom of mechanical department in IGDTUW",
+      "status": "UnResolved",
+      "area": "IGDTUW", 
+      "state":"Delhi",
+      "color":"bg-red-400",
+      "id": 2
+    },
+    {
+      "message": "Safety issue on gate-5 at kashmiri gate metro station",
+      "status": "UnResolved",
+      "area": "kashmiri gate", 
+      "state":"Delhi",
+      "color":"bg-red-400",
+      "id": 3
+    },
+    {
+      "message": "Ring road of Rohini West metro station has many path holes",
+      "status": "Resolved",
+      "area": "Rohini", 
+      "state":"Delhi",
+      "color":"bg-green-400",
+      "id": 4
+    }
+  ]
+  
